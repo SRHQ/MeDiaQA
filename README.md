@@ -1,2 +1,2 @@
-# MeDIaQA
+# MeDiaQA
 To be updated
